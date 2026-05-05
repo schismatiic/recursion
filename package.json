@@ -1,0 +1,24 @@
+{
+  "name": "recursion",
+  "version": "1.0.0",
+  "description": "A JavaScript project focused on understanding and practicing **recursion** through two classic computer science problems: **Fibonacci Sequence** and **Merge Sort**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schismatiic/recursion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/schismatiic/recursion/issues"
+  },
+  "homepage": "https://github.com/schismatiic/recursion#readme",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
