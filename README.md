@@ -29,10 +29,19 @@ This project explores both iterative and recursive approaches while reinforcing 
 ## Project Structure
 
 ```id="g1f2de"
-/project-root
-│── fibs.js
-│── fibsRec.js
-│── mergeSort.js
+/recursion
+│── fibonacci/
+│──── fibs.js
+│──── fibs.spec.js
+│──── fibsRec.js
+│──── fibsRec.spec.js
+│── mergeSort/
+│──── mergeSort.js
+│──── mergeSort.js
+│── node_modules/
+│── .gitignore
+│── package-lock.json
+│── package.json
 └── README.md
 ```
 
